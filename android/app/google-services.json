@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142372581225",
+    "project_id": "new-chess-app",
+    "storage_bucket": "new-chess-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142372581225:android:e3e2ad4da0d0513a1cd7f8",
+        "android_client_info": {
+          "package_name": "com.example.zego_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlR3NASHq8NKxb9NIWFR30gfLs0w5dco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
